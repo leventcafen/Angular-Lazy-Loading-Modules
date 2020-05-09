@@ -3,9 +3,9 @@ import { MenuService } from 'src/app/services/menu.service';
 import { Menu } from 'src/app/model/menu';
 
 @Component({
-  selector: 'app-header',
-  templateUrl: './header.component.html',
-  styleUrls: ['./header.component.scss']
+  selector: 'app-sidebar',
+  templateUrl: './sidebar.component.html',
+  styleUrls: ['./sidebar.component.scss']
 })
 export class HeaderComponent implements OnInit {
 

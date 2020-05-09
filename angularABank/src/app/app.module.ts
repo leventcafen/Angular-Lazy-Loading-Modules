@@ -5,8 +5,7 @@ import { HttpClientModule, HttpClient } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { HeaderComponent } from './components/header/header.component';
-import { FooterComponent } from './components/footer/footer.component';
+import { HeaderComponent } from './components/sidebar-menu/sidebar.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatSliderModule } from '@angular/material/slider';
 import {MatSidenavModule} from '@angular/material/sidenav';
@@ -21,7 +20,6 @@ import {MatIconModule} from '@angular/material/icon';
   declarations: [
     AppComponent,
     HeaderComponent,
-    FooterComponent,
   ],
   imports: [
     BrowserModule,

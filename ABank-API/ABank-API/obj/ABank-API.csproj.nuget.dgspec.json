@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leventc\\source\\repos\\ABank-API\\ABank-API\\ABank-API.csproj": {}
+    "C:\\Users\\leventc\\Desktop\\ABank\\ABank-API\\ABank-API\\ABank-API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leventc\\source\\repos\\ABank-API\\ABank-API\\ABank-API.csproj": {
+    "C:\\Users\\leventc\\Desktop\\ABank\\ABank-API\\ABank-API\\ABank-API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leventc\\source\\repos\\ABank-API\\ABank-API\\ABank-API.csproj",
+        "projectUniqueName": "C:\\Users\\leventc\\Desktop\\ABank\\ABank-API\\ABank-API\\ABank-API.csproj",
         "projectName": "ABank-API",
-        "projectPath": "C:\\Users\\leventc\\source\\repos\\ABank-API\\ABank-API\\ABank-API.csproj",
+        "projectPath": "C:\\Users\\leventc\\Desktop\\ABank\\ABank-API\\ABank-API\\ABank-API.csproj",
         "packagesPath": "C:\\Users\\leventc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leventc\\source\\repos\\ABank-API\\ABank-API\\obj\\",
+        "outputPath": "C:\\Users\\leventc\\Desktop\\ABank\\ABank-API\\ABank-API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
