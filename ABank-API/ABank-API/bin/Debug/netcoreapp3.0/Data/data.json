@@ -1,0 +1,22 @@
+[
+  {
+    "MenuId": "1",
+    "MenuName": "Home",
+    "MenuRoute": ""
+  },
+  {
+    "MenuId": "2",
+    "MenuName": "Education",
+    "MenuRoute": "education"
+  },
+  {
+    "MenuId": "3",
+    "MenuName": "Experience",
+    "MenuRoute": "experience"
+  },
+    {
+    "MenuId": "4",
+    "MenuName": "Skills",
+    "MenuRoute": "skills"
+  }
+]
